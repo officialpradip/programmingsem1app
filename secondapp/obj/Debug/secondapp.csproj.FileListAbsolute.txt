@@ -1,0 +1,53 @@
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.Properties.Resources.resources
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.csproj.GenerateResource.cache
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.csproj.CoreCompileInputs.cache
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.Form3.resources
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.Form4.resources
+E:\programming studio\secondapp\secondapp\secondapp\bin\Debug\secondapp.exe.config
+E:\programming studio\secondapp\secondapp\secondapp\bin\Debug\secondapp.exe
+E:\programming studio\secondapp\secondapp\secondapp\bin\Debug\secondapp.pdb
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.exe
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.pdb
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.FormDesignation.resources
+E:\programming studio\secondapp\secondapp\secondapp\obj\Debug\secondapp.FormDepartment.resources
+C:\Users\Acer\Desktop\New folder (2)\secondapp\bin\Debug\secondapp.exe.config
+C:\Users\Acer\Desktop\New folder (2)\secondapp\bin\Debug\secondapp.exe
+C:\Users\Acer\Desktop\New folder (2)\secondapp\bin\Debug\secondapp.pdb
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.FormDesignation.resources
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.FormDepartment.resources
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.Form3.resources
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.Form4.resources
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.Properties.Resources.resources
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.exe
+C:\Users\Acer\Desktop\New folder (2)\secondapp\obj\Debug\secondapp.pdb
+E:\programming studio\secondapp\secondapp\bin\Debug\secondapp.exe.config
+E:\programming studio\secondapp\secondapp\bin\Debug\secondapp.exe
+E:\programming studio\secondapp\secondapp\bin\Debug\secondapp.pdb
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.FormDesignation.resources
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.FormDepartment.resources
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.Changepasword.resources
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.Properties.Resources.resources
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.csproj.GenerateResource.cache
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.csproj.CoreCompileInputs.cache
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.exe
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.pdb
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.mdiform.resources
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.csprojAssemblyReference.cache
+E:\programming studio\secondapp\secondapp\obj\Debug\secondapp.Formemployee.resources
+E:\programming visual studio\secondapp\secondapp\bin\Debug\secondapp.exe.config
+E:\programming visual studio\secondapp\secondapp\bin\Debug\secondapp.exe
+E:\programming visual studio\secondapp\secondapp\bin\Debug\secondapp.pdb
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.FormDesignation.resources
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.FormDepartment.resources
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.Formemployee.resources
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.Properties.Resources.resources
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.csproj.GenerateResource.cache
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.csproj.CoreCompileInputs.cache
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.exe
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.pdb
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.FormLogin.resources
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.mdiForm.resources
+E:\programming visual studio\secondapp\secondapp\obj\Debug\secondapp.csprojAssemblyReference.cache
